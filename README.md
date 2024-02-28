@@ -9,12 +9,12 @@ Step 1: Activate the virtual environment:
 - Select "Terminal" from the drop-down menu.
 - Type the following command into the terminal:
    ```
-   env/Scripts/Activate.ps1
+   venv_/Scripts/Activate.ps1
    ```
 - Press Enter.
-- You will notice a green `(env)` text appear on the terminal, confirming that your Virtual Environment has been activated.
+- You will notice a green `(venv_)` text appear on the terminal, confirming that your Virtual Environment has been activated.
 
-Step 2: Open the `env` file and enter your personal API keys:
+Step 2: Open the `[DOT]env` file and enter your personal API keys:
 - Open the `[DOT]env` file.
 - Enter your personal OPENAI_API_KEY, PINECONE_ENV, and PINECONE_API_KEY.
 
